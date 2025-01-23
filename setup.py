@@ -36,7 +36,7 @@ skymodel_pkg='SkyModel'
 __version__ = "0.7.2.0"
 # Bump when building for a new release version of Python
 MAJ_REQ = 3
-MIN_REQ = 8
+MIN_REQ = 10
 build_root=os.path.dirname(__file__)
 
 try:
