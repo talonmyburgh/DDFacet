@@ -152,7 +152,7 @@ def requirements():
                     "matplotlib >= 2.0.0; python_version >= '3'", 
                     "scipy >= 1.3.3; python_version >= '3'", 
                     "astLib >= 0.8.0,<=0.11.7; python_version >= '3'", 
-                    "psutil >= 5.2.2,<=5.9.1; python_version >= '3'", 
+                    "psutil >= 5.2.2,<=5.9.3; python_version >= '3'", 
                     "py-cpuinfo >= 3.2.0,<=8.0.0; python_version >= '3'", 
                     "tables >= 3.6.0,<=3.7.0; python_version >= '3'", 
                     "prettytable >= 0.7.2,<=2.5.0; python_version >= '3'", 
